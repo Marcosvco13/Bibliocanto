@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliocanto", "Bibliocanto\Bibliocanto.csproj", "{6492FB20-BD40-4270-86F6-F2E268184DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliocanto.Model", "Bibliocanto.Model\Bibliocanto.Model.csproj", "{146806DD-4F5D-468C-B57A-689B00AB055C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6492FB20-BD40-4270-86F6-F2E268184DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6492FB20-BD40-4270-86F6-F2E268184DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6492FB20-BD40-4270-86F6-F2E268184DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146806DD-4F5D-468C-B57A-689B00AB055C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146806DD-4F5D-468C-B57A-689B00AB055C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146806DD-4F5D-468C-B57A-689B00AB055C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146806DD-4F5D-468C-B57A-689B00AB055C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

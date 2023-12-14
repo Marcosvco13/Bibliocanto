@@ -1,0 +1,15 @@
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.Model.deps.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.Model.runtimeconfig.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.Model.dll
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.Model.pdb
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.csproj.AssemblyReference.cache
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.AssemblyInfoInputs.cache
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.AssemblyInfo.cs
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.csproj.CoreCompileInputs.cache
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.sourcelink.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.dll
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\refint\Bibliocanto.Model.dll
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.pdb
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.genruntimeconfig.cache
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\ref\Bibliocanto.Model.dll
