@@ -1053,6 +1053,23 @@
             "rid": "win"
           }
         }
+      },
+      "Bibliocanto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.14",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.14"
+        },
+        "compile": {
+          "bin/placeholder/Bibliocanto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bibliocanto.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -2875,10 +2892,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Bibliocanto/1.0.0": {
+      "type": "project",
+      "path": "../Bibliocanto/Bibliocanto.csproj",
+      "msbuildProject": "../Bibliocanto/Bibliocanto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Bibliocanto >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.14",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.14",
@@ -2917,7 +2940,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Estudos\\Bibliocanto\\Bibliocanto\\Bibliocanto\\Bibliocanto.csproj": {
+              "projectPath": "D:\\Estudos\\Bibliocanto\\Bibliocanto\\Bibliocanto\\Bibliocanto.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -13,3 +13,12 @@ D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\refint\Bib
 D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.pdb
 D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.genruntimeconfig.cache
 D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\ref\Bibliocanto.Model.dll
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.deps.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.runtimeconfig.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\appsettings.Development.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\appsettings.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.staticwebassets.runtime.json
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.exe
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.dll
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\bin\Debug\net7.0\Bibliocanto.pdb
+D:\Estudos\Bibliocanto\Bibliocanto\Bibliocanto.Model\obj\Debug\net7.0\Bibliocanto.Model.csproj.CopyComplete
