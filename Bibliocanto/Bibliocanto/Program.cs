@@ -1,4 +1,14 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Bibliocanto;
+using Bibliocanto.Areas.Identity.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("LoginConnection") ?? throw new InvalidOperationException("Connection string 'LoginConnection' not found.");
+
+builder.Services.AddDbContext<Login>(options => options.UseSqlServer(connectionString));
+
+builder.Services.AddDefaultIdentity<BibliocantoUser>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<Login>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -23,5 +33,5 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
+app.MapRazorPages();
 app.Run();
